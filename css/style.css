@@ -55,6 +55,10 @@ img {
 address {
   font-style: normal;
 }
+
+iframe{
+  max-width: 100%;
+}
 /* ---------- 初期スタイル調整 ここまで ---------- */
 
 
@@ -341,6 +345,7 @@ address {
 .provideo{
   text-align: center;
 }
+
 .profile{
   margin-bottom: 10px;
 }
